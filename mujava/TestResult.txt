@@ -1,0 +1,164 @@
+TestForBubbleSort
+
+
+======================================== Generating Original Test Results ========================================
+{testBubble=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBubble=}
+mutant report: {}
+[Notice] There are no mutants to apply
+TestForBubbleSort
+
+
+======================================== Generating Original Test Results ========================================
+{testBubble=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBubble=}
+mutant report: {}
+[Notice] There are no mutants to apply
+TestForBubbleSort
+
+
+======================================== Generating Original Test Results ========================================
+{testBubble=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBubble=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1{testBubble=testBubble: 19; arrays first differed at element [3]; expected:<5> but was:<6>}
+  AOIS_10{testBubble=testBubble: ; -1}
+  AOIS_11{testBubble=testBubble: 19; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_12{testBubble=testBubble: ; -1}
+  AOIS_17{testBubble=testBubble: 19; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_18{testBubble=testBubble: ; 5}
+  AOIS_19{testBubble=testBubble: 19; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_2{testBubble=testBubble: ; 5}
+  AOIS_20{testBubble=testBubble: ; 5}
+  AOIS_21{testBubble=testBubble: 19; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_22{testBubble=testBubble: ; -1}
+  AOIS_23{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AOIS_24{testBubble=testBubble: ; -1}
+  AOIS_25{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AOIS_26 time_out: more than 3000 seconds
+  AOIS_27{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AOIS_28{testBubble=testBubble: ; -1}
+  AOIS_29{testBubble=testBubble: ; 5}
+  AOIS_3{testBubble=testBubble: 19; arrays first differed at element [3]; expected:<5> but was:<6>}
+  AOIS_30 time_out: more than 3000 seconds
+  AOIS_31{testBubble=testBubble: ; 5}
+  AOIS_32 time_out: more than 3000 seconds
+  AOIS_33{testBubble=testBubble: ; 5}
+  AOIS_34 time_out: more than 3000 seconds
+  AOIS_35{testBubble=testBubble: 19; arrays first differed at element [4]; expected:<6> but was:<9>}
+  AOIS_36{testBubble=testBubble: 19; arrays first differed at element [3]; expected:<5> but was:<4>}
+  AOIS_37{testBubble=pass}
+  AOIS_38{testBubble=pass}
+  AOIS_4{testBubble=testBubble: ; 5}
+  AOIS_9{testBubble=testBubble: 19; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIU_1{testBubble=testBubble: ; -1}
+  AOIU_2{testBubble=testBubble: ; -1}
+  AOIU_3{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<-6>}
+  AORB_1{testBubble=pass}
+  AORB_10{testBubble=testBubble: ; 5}
+  AORB_11{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_12{testBubble=testBubble: ; 5}
+  AORB_13{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_14{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_15{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<5>}
+  AORB_16{testBubble=testBubble: ; -1}
+  AORB_17{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_18{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_19{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<1>}
+  AORB_2{testBubble=pass}
+  AORB_20{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<1>}
+  AORB_21{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_22{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_23{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<6>}
+  AORB_24{testBubble=testBubble: ; -1}
+  AORB_3{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_4{testBubble=pass}
+  AORB_5{testBubble=testBubble: ; 5}
+  AORB_6{testBubble=testBubble: ; / by zero}
+  AORB_7{testBubble=testBubble: ; / by zero}
+  AORB_8{testBubble=testBubble: ; 5}
+  AORB_9{testBubble=testBubble: ; 5}
+  AORS_1{testBubble=testBubble: ; 5}
+  AORS_2{testBubble=testBubble: ; -1}
+  CDL_1{testBubble=pass}
+  CDL_2{testBubble=testBubble: ; 5}
+  CDL_3{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  CDL_4{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  CDL_5{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  COI_1{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  COI_2{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  COI_3{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<6>}
+  LOI_1 time_out: more than 3000 seconds
+  LOI_10 time_out: more than 3000 seconds
+  LOI_11{testBubble=testBubble: ; -2}
+  LOI_12{testBubble=testBubble: ; -1}
+  LOI_13{testBubble=testBubble: ; -1}
+  LOI_14{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<-7>}
+  LOI_2{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  LOI_4{testBubble=testBubble: ; 5}
+  LOI_5{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  LOI_6{testBubble=testBubble: ; 5}
+  LOI_8{testBubble=testBubble: ; -1}
+  LOI_9{testBubble=testBubble: ; -1}
+  ODL_1{testBubble=testBubble: ; -1}
+  ODL_13{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_14{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_17{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_18{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_19{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_2{testBubble=pass}
+  ODL_20{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_6{testBubble=pass}
+  ODL_7{testBubble=testBubble: 19; arrays first differed at element [2]; expected:<2> but was:<6>}
+  ODL_8{testBubble=testBubble: ; 5}
+  ODL_9{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_1{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_10{testBubble=testBubble: ; 5}
+  ROR_11{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_12{testBubble=pass}
+  ROR_13{testBubble=testBubble: ; 5}
+  ROR_15{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<6>}
+  ROR_16{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<6>}
+  ROR_17{testBubble=pass}
+  ROR_18{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_19{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<5>}
+  ROR_2{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_20{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<5>}
+  ROR_21{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_3{testBubble=pass}
+  ROR_4{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_5{testBubble=pass}
+  ROR_8{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_9{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_1{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_10{testBubble=testBubble: 19; arrays first differed at element [3]; expected:<5> but was:<2>}
+  SDL_11{testBubble=testBubble: 19; arrays first differed at element [0]; expected:<1> but was:<5>}
+  SDL_2{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_4 time_out: more than 3000 seconds
+  SDL_5 time_out: more than 3000 seconds
+  SDL_6{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_7 time_out: more than 3000 seconds
+  SDL_9 time_out: more than 3000 seconds
+  VDL_10{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  VDL_2 time_out: more than 3000 seconds
+  VDL_3 time_out: more than 3000 seconds
+{testBubble=time_out: more than 3000 seconds}
+  VDL_5  VDL_6{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
+  VDL_9 time_out: more than 3000 seconds
+test report: {testBubble=AOIS_1, AOIS_10, AOIS_11, AOIS_12, AOIS_17, AOIS_18, AOIS_19, AOIS_2, AOIS_20, AOIS_21, AOIS_22, AOIS_23, AOIS_24, AOIS_25, AOIS_26, AOIS_27, AOIS_28, AOIS_29, AOIS_3, AOIS_30, AOIS_31, AOIS_32, AOIS_33, AOIS_34, AOIS_35, AOIS_36, AOIS_4, AOIS_9, AOIU_1, AOIU_2, AOIU_3, AORB_10, AORB_11, AORB_12, AORB_13, AORB_14, AORB_15, AORB_16, AORB_17, AORB_18, AORB_19, AORB_20, AORB_21, AORB_22, AORB_23, AORB_24, AORB_3, AORB_5, AORB_6, AORB_7, AORB_8, AORB_9, AORS_1, AORS_2, CDL_2, CDL_3, CDL_4, CDL_5, COI_1, COI_2, COI_3, LOI_1, LOI_10, LOI_11, LOI_12, LOI_13, LOI_14, LOI_2, LOI_4, LOI_5, LOI_6, LOI_8, LOI_9, ODL_1, ODL_13, ODL_14, ODL_17, ODL_18, ODL_19, ODL_20, ODL_7, ODL_8, ODL_9, ROR_1, ROR_10, ROR_11, ROR_13, ROR_15, ROR_16, ROR_18, ROR_19, ROR_2, ROR_20, ROR_21, ROR_4, ROR_8, ROR_9, SDL_1, SDL_10, SDL_11, SDL_2, SDL_4, SDL_5, SDL_6, SDL_7, SDL_9, VDL_10, VDL_2, VDL_3, VDL_5, VDL_6, VDL_9}
+mutant report: {VDL_10=testBubble, COI_3=testBubble, COI_2=testBubble, LOI_5=testBubble, LOI_6=testBubble, LOI_8=testBubble, LOI_1=testBubble, LOI_2=testBubble, LOI_4=testBubble, COI_1=testBubble, CDL_1=, CDL_2=testBubble, CDL_3=testBubble, LOI_9=testBubble, SDL_11=testBubble, AOIS_38=, VDL_9=testBubble, AOIS_37=, AOIS_36=testBubble, AOIS_35=testBubble, AOIS_34=testBubble, SDL_10=testBubble, AOIS_33=testBubble, AOIS_32=testBubble, VDL_3=testBubble, AOIS_31=testBubble, VDL_2=testBubble, AOIS_30=testBubble, VDL_6=testBubble, VDL_5=testBubble, AOIS_29=testBubble, AOIS_28=testBubble, AOIS_27=testBubble, AOIS_26=testBubble, ROR_21=testBubble, AOIS_25=testBubble, ROR_20=testBubble, AOIS_24=testBubble, AOIS_23=testBubble, AOIS_22=testBubble, AOIU_3=testBubble, ODL_9=testBubble, AOIS_21=testBubble, ODL_8=testBubble, AOIS_20=testBubble, AOIU_1=testBubble, AOIU_2=testBubble, ODL_1=testBubble, AORB_9=testBubble, ODL_2=, ODL_7=testBubble, ODL_6=, AORB_3=testBubble, AORB_4=, AORB_1=, AORB_2=, AORB_7=testBubble, AORB_8=testBubble, AORB_5=testBubble, AORB_6=testBubble, AOIS_19=testBubble, ROR_2=testBubble, AOIS_18=testBubble, ROR_13=testBubble, ROR_3=, AOIS_17=testBubble, ROR_16=testBubble, ROR_4=testBubble, ROR_15=testBubble, ROR_5=, ROR_10=testBubble, ROR_12=, ROR_8=testBubble, AOIS_12=testBubble, ROR_11=testBubble, ROR_9=testBubble, AOIS_11=testBubble, AORS_2=testBubble, AOIS_10=testBubble, AORS_1=testBubble, ROR_1=testBubble, ROR_18=testBubble, ROR_17=, ROR_19=testBubble, SDL_5=testBubble, SDL_4=testBubble, SDL_7=testBubble, SDL_6=testBubble, AORB_23=testBubble, SDL_9=testBubble, AORB_24=testBubble, AORB_21=testBubble, AORB_22=testBubble, SDL_1=testBubble, SDL_2=testBubble, AORB_16=testBubble, AORB_17=testBubble, AORB_14=testBubble, AORB_15=testBubble, AORB_12=testBubble, AORB_13=testBubble, AORB_10=testBubble, AORB_11=testBubble, AORB_18=testBubble, AORB_19=testBubble, CDL_4=testBubble, CDL_5=testBubble, ODL_20=testBubble, AORB_20=testBubble, ODL_19=testBubble, AOIS_3=testBubble, AOIS_4=testBubble, AOIS_1=testBubble, AOIS_2=testBubble, LOI_14=testBubble, AOIS_9=testBubble, LOI_10=testBubble, LOI_11=testBubble, LOI_12=testBubble, LOI_13=testBubble, ODL_14=testBubble, ODL_13=testBubble, ODL_18=testBubble, ODL_17=testBubble}
+{testBubble=testBubble: 19; arrays first differed at element [1]; expected:<2> but was:<6>}
